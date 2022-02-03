@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">Connect with me!</h2>
+<h3 align="center">Connect with me!</h3>
 <br>
 <p align="center">
 <a href="https://twitter.com/kennysliding" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kennysliding" height="30" width="40" /></a>
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ---
 
-<h2 align="center">Support me <3 </h2>
+<h3 align="center">Support me <3 </h3>
 <p align="center">
     <a href="https://www.buymeacoffee.com/burningalc">
         <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="burningalc" />
