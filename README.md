@@ -40,6 +40,12 @@ Here are some ideas to get you started:
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burningalc&show_icons=true&locale=en" alt="burningalc" /></p> -->
 
+<h3 align="center">What I did in the community </h3>
+
+<p align="center">
+<a href="https://stackexchange.com/users/17351133"><img src="https://stackexchange.com/users/flair/17351133.png?theme=dark" width="208" height="58" alt="profile for burningalc on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for burningalc on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+</p>
+
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burningalc&theme=dracula" alt="burningalc" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=burningalc&theme=dracula&show_icons=true&locale=en" alt="burningalc" /></p>
